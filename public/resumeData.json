@@ -141,12 +141,6 @@
         "url":"https://original-thai-food.herokuapp.com/index.html"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"https://github.com/tbakerx/react-resume-template"
-      },
-      {
         "title":"Smirkspace",
         "category":"(MVP Only) A React and Meteor based chat University project.",
         "image":"smirkspace.jpg",
