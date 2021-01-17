@@ -1,4 +1,4 @@
-# Tim Baker Development 
+# Kaushik Vaghani Development 
 ![ReactJS Resume Website](readme.jpg?raw=true "ReactJS Resume Website")
 ### <a href="http://timbakerdev.com/">Check It Out Here</a> 
 
