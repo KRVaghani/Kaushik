@@ -4,9 +4,9 @@
     "occupation":"FullStack Software Engineer",
     "description":" currently employed by ",
     "employer":"Freelance",
-    "jobDescription":"full stack software engineer across the range of our products, as well being our lead security specialist",
+    "jobDescription":"A passionate Full Stack Software Developer 🚀 having an experience of designing and building WEB applications and other cool libraries and frameworks.",
     "image":"profile_pic.jpg",
-    "bio":"I am an athlete at heart, with an entrepreneurial spirit, a knack for online security, and a passion for coding. Having returned from my year of traveling, I pursued my first development job to kick off my career. I was hired as a full stack developer by Shop Your Own Mortgage, where I still work today. Since beginning my career there, I have been given the opportunity to shift into cybersecurity for the company. I am currently working towards my Certified Ethical Hacker certification while working as a full stack developer and lead security specialist.",
+    "bio":"I am a Full Stack Software Engineer with Passionate learner for new Technologies, Love to Learn and write about latest web technologies Development and Design in IT world like: Reactjs, Core MongoDB, ExpressJS, Java, NodeJS, JavaScript, SQL etc.  Currently looking to launch my career in the IT industry. I would like to meet new people with shared interest and hope to expand my network in IT world...",
     "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
     "email": "kaushik.vaghani111@gmail.com",
     "phone": "(+91) 8469307921",
@@ -17,7 +17,7 @@
       "zip": "394101"
     },
     "website": "http://krvaghani.blogspot.com/",
-    "resumedownload":"",
+    "resumedownload":"https://drive.google.com/file/d/1cV2c1vI41gPu3v47dbIDO9MDsQ0rNloX/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -53,27 +53,27 @@
         "school":"National Institute of Information Technology",
         "degree":"Advanced Fullstack Software Engineering",
         "graduated":"Expected December 2019",
-        "description":"Under the recommendation and Guidance of the Head Coach of the UVIC soccer team, I transferred to the University of Victoria. Here I took my Bachelors of Computer Science with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
+        "description":"I was Completed 2 Live project in this course and lot's of learn here."
       },
       {
         "school":"Shree Swaminarayan College of Computer Science",
         "degree":"BCA - Bachelor of Computer Application",
         "graduated":"April 2017",
-        "description":"I attended GPRC for my first 2 years of post-secondary on a scholarship for the college soccer team. While here, I studied Computer Systems Technology, a 2 year lead-in to a Bachelors of Computer Science. This was a very hands-on experience focused more on building projects than general theory. Here I built database structures for fictional companies, created small video games, hand-coded Space Invaders from scratch in Assembly Language, built and coded an Arduino Robot to navigate obstacle courses, a lot of Java and C++ programming for data structures, and much more."
+        "description":"Ranked first with 60% in the program. Took courses about Application development, Web Tech., Operating Systems,..."
       }
     ],
     "work":[
       {
         "company":"Melzo",
         "title": "Jr. Fullstack Developer",
-        "years": "February 2020 - Present",
-        "description": "For most of my time at Shop Your Own Mortgage, I have worked as a Full Stack Software Engineer. Here I have had the chance to dig in and get my hands dirty with all parts of our software. I have worked with our legacy PHP backend, as well as built new node-based servers for new products. As well, I led the development of V2 of our mobile application written in React Native. I have worked extensively with React/Redux as well as with react hooks. \n\nMore recently, I have been given the opportunity to lead our cybersecurity initiative. As part of our partnership with a number of 3rd parties and our planned expansion into Europe, the need to tighten security and bring our technology up to certain compliance standards has become evident. It is my job to bring us into alignment with these, as well as hardening our security as a whole."
+        "years": "January 2020 - Present",
+        "description": "Working with New Technology and Learning New Thing. - First, 4 months trainee advanced logic build in javascript, HTML5, CSS3, ReactJS, A-Frame, and basic VR/AR, etc. - some third-party API integration completed and advanced researching about new tools and new tech implementation in company products. - working in Frontend website and Automation Tools Creating Tasks etc."
       },
       {
         "company":"Trueline Solution",
         "title":"Jr. front & back-end web developer ",
         "years":"July 2017 - September 2018",
-        "description":"Working for the City of Fort St. John has given me a solid understanding of a city's infrastructure system and what it takes to keep the things working that we take for granted every day. During my time here I have worked in all roles involved in the Water and Sewer Department, with the exception of equipment operating. I worked as a water meter technician programming the meters in people's homes. I worked in location, excavation, installation and repair of water and sewer lines. I learned how to install, dismantle, troubleshoot, and repair the most popular models of fire hydrants. \n\nWhile working for the Water Treatment and Distribution Department, and alongside one partner, we led the first Uni-Directional Flow program our city has done in years. This requires a thorough understanding of the city's water grid to selectively force excessive pressure through a water line in order to clean it. This must be done in a specific order for every line in the city.   "
+        "description":"Working with New Technology and Lerninng New Thing - HTML, CSS, JavaScript, Bootstrap Studio, GitHub, etc. - Wordpress Framework - Lead and manage team - Guide & train team members for enhancing their skills and supervise their work - Video Creating [2D Animation, WhiteBoard, Slides] - Social Media Handle & Paid Promotion [ Google Ads / Facebook / Instagram / Twitter ] - Graphics & Design ( Useing software like : Adobe XD, Corel Draw, Adobe Photoshop, Adobe illustrator, etc.. ) - Search Engine Optimization [SEO] - Business Branding. "
       }
     ],
     "skills":[
@@ -122,37 +122,13 @@
   },
   "portfolio":{
     "projects": [
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"https://original-thai-food.herokuapp.com/index.html"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
-      }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
         "text":"I have had the opportunity to work with Kaushik on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Kaushik excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
-        "user":"Alastair Beaumont - Web Developer at AppColony"
+        "user":" Priyank Patel - Fullstack developer"
       }
     ]
   }

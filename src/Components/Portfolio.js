@@ -24,8 +24,8 @@ class Portfolio extends Component {
     }
 
     return (
-      <section id="portfolio">
-
+      <section>
+{/*  id="portfolio"
       <div className="row">
 
          <div className="twelve columns collapsed">
@@ -36,7 +36,7 @@ class Portfolio extends Component {
                 {projects}
             </div>
           </div>
-      </div>
+      </div> */}
    </section>
     );
   }
